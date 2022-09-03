@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b571b55-4e56-46c3-9121-18c0895b09ef/deploy-status)](https://app.netlify.com/sites/yahya-sghayron/deploys)
+
